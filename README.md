@@ -16,3 +16,4 @@ gcc main.c -o ttt
 
 ## Author
 Rsja Sherina T
+CSE Dept
